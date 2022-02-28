@@ -1,0 +1,29 @@
+[05-Nov-2021 12:57:10 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/tauloffu/public_html/resultat-productes.php:141
+Stack trace:
+#0 /home/tauloffu/public_html/resultat-productes.php(141): PDO->__construct('mysql:host=127....', 'root', '')
+#1 {main}
+  thrown in /home/tauloffu/public_html/resultat-productes.php on line 141
+[05-Nov-2021 13:08:18 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/tauloffu/public_html/resultat-productes.php:141
+Stack trace:
+#0 /home/tauloffu/public_html/resultat-productes.php(141): PDO->__construct('mysql:host=127....', 'root', '')
+#1 {main}
+  thrown in /home/tauloffu/public_html/resultat-productes.php on line 141
+[05-Nov-2021 14:21:36 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/tauloffu/public_html/resultat-productes.php:141
+Stack trace:
+#0 /home/tauloffu/public_html/resultat-productes.php(141): PDO->__construct('mysql:host=127....', 'root', '')
+#1 {main}
+  thrown in /home/tauloffu/public_html/resultat-productes.php on line 141
+[05-Nov-2021 14:27:30 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/tauloffu/public_html/resultat-productes.php:141
+Stack trace:
+#0 /home/tauloffu/public_html/resultat-productes.php(141): PDO->__construct('mysql:host=127....', 'root', '')
+#1 {main}
+  thrown in /home/tauloffu/public_html/resultat-productes.php on line 141
+[05-Nov-2021 14:31:14 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/tauloffu/public_html/resultat-productes.php:141
+Stack trace:
+#0 /home/tauloffu/public_html/resultat-productes.php(141): PDO->__construct('mysql:host=127....', 'root', '')
+#1 {main}
+  thrown in /home/tauloffu/public_html/resultat-productes.php on line 141
+[07-Jan-2022 19:57:54 America/New_York] PHP Notice:  Undefined index: buscar in /home/tauloffu/public_html/resultat-productes.php on line 2
+[07-Jan-2022 19:57:54 America/New_York] PHP Notice:  Undefined index: buscar in /home/tauloffu/public_html/most.class.DB-bsq.php on line 200
+[09-Jan-2022 23:18:20 America/New_York] PHP Notice:  Undefined index: buscar in /home/tauloffu/public_html/resultat-productes.php on line 2
+[09-Jan-2022 23:18:20 America/New_York] PHP Notice:  Undefined index: buscar in /home/tauloffu/public_html/most.class.DB-bsq.php on line 200

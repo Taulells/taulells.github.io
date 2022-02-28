@@ -1,0 +1,59 @@
+ 
+
+
+
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+    <!-- STYLESHEETS  -->
+<link rel="stylesheet" href="ent-13/ent-13.css">
+
+<!-- END STYLESHEETS  -->
+
+</head>
+
+
+
+<body>
+
+      
+<div> 
+
+
+
+
+
+<div class='satisfactori-registre-container-registre'> 
+
+<div class='satisfactori-registre-registre'>
+     
+ <img src='../theimages/caution.png' alt='Satisfactori' class='responsive' style='margin:auto;' >
+    <br>
+    <br> 
+<div class='satisfactori-subcontainer-registre'> <p class='fontsize-normal-buscador'>Tecnologia per pobles i ciutats, creada pels ciutadans dels pobles i ciutats. </p> </div> 
+<div class='satisfactori-registre-line'> </div>
+<br>
+
+<br>
+<a class='satisfactori-button-registre' href='index.php'> Pàgina d'inici</a>
+
+   
+    
+</div> 
+
+</div>
+
+
+
+</div>
+
+       
+</body>
+
+</html> 
